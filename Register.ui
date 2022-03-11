@@ -193,7 +193,7 @@ background-color: darkgreen;
      <string notr="true">QWidget{
 background-color: white;
 border: 4px solid green;
-border-radius: 7px
+border-radius: 10px
 }
 QWidget:hover{
 border-color: dakgreen;
@@ -226,7 +226,7 @@ background-color: darkgreen;
      <string notr="true">QWidget{
 background-color: white;
 border: 4px solid green;
-border-radius: 7px
+border-radius: 10px
 }
 QWidget:hover{
 border-color: dakgreen;
